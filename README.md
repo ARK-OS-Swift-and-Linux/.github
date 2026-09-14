@@ -1,2 +1,3 @@
-# .github
-WELOCOME to the official ARK-OS Repository!
+# ARK-OS
+
+Welocme to the only and official ARK-OS Repository hosted on github!
