@@ -2,9 +2,14 @@
 
 Welocme to the only and official ARK-OS Repository hosted on github!
 
+> [!NOTE]
+>
+> It is recommended to use ssh to clone the repo!
+
 You can sync via:
 ```bash
-curl -fsSL https://raw.githubusercontent.com/ARK-OS-Swift-and-Linux/main/refs/heads/main/sync.sh | bash
+repo init -u git@github.com:ARK-OS-Swift-and-Linux/main.git
+repo sync
 ```
 ## What is it?
 
