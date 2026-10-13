@@ -2,7 +2,7 @@
 
 > [!WARNING]
 >
-> ARK-OS is going through huge amounts of architectural changes and hence all repos have been made private... you can fid them public again in about 2 months!
+> ARK-OS is going through huge amounts of architectural changes and hence all repos have been made private... you can fid them public again in about a month!
 
 Welocme to the only and official ARK-OS Repository hosted on github!
 
