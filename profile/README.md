@@ -16,3 +16,7 @@ It's a Linux-based operating system built from scratch — designed to be easy t
 > Only on the first build since after that downloads are cached
 > If you rerun a Fresh build you will need a Internet Connection!
 > This is to reduce the size of the project on github!
+
+## Updates
+
+One Update per month as I also have my school exams soon!
