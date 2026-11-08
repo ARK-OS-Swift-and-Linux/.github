@@ -1,10 +1,6 @@
 # ARK-OS
 
-> [!WARNING]
->
-> ARK-OS is going through huge amounts of architectural changes and hence all repos have been made private... you can find them public again in about a month!
-
-Welcome to the only and official ARK-OS Repository hosted on github!
+Welcome to the official ARK-OS Repository hosted on github!
 
 ## What is it?
 
